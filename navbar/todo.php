@@ -28,7 +28,7 @@
     }
 ?>
 
-<h2 style="text-align: center; margin-bottom: 20px;">Tabel Todo List</h2>
+<h2 style="text-align: center; margin-bottom: 20px;">Tabel To do List</h2>
 
 <!-- Button trigger modal -->
 <button style="float: right;" type="button" class="btn btn-success mb-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
